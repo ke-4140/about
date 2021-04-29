@@ -1,7 +1,10 @@
 # Key Frame Extractor
+<br>
 Extract important frames from your hour-long webinars.
 <br>
+<br>
 The application is deployed to https://ke-4140.github.io
+<br>
 ![landing](asset/landing.png)
 
 ## Repositories
