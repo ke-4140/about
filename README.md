@@ -16,8 +16,8 @@ The application is deployed to https://ke-4140.github.io
 * Allow the key frames and transcript to be exported to a PDF file
 
 ## Stack Used
-Frontend: React
-Backend: Laravel PHP, Python (Pafy, OpenCV, scikit-image), MySQL, S3
+* Frontend: React
+* Backend: Laravel PHP, Python (Pafy, OpenCV, scikit-image), MySQL, S3
 
 ## Installation
 Please visit [ke-docker](https://github.com/ke-4140/ke-docker) for the installation guide.
