@@ -1,0 +1,11 @@
+[submodule "ke-frontend"]
+	path = ke-frontend
+	url = https://github.com/ke-4140/ke-frontend
+  
+[submodule "ke-backend"]
+	path = ke-backend
+	url = https://github.com/ke-4140/ke-backend
+  
+[submodule "ke-docker"]
+	path = ke-docker
+	url = https://github.com/ke-4140/ke-docker
